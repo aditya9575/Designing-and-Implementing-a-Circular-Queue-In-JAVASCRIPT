@@ -5,6 +5,8 @@ Circular Queue Implementation in JavaScript
 Introduction
 This repository contains a JavaScript implementation of a circular queue, solving the problem of designing a circular queue based on the FIFO principle. The circular queue, also known as a "Ring Buffer," is a linear data structure where the last position is connected back to the first position, creating a circular structure.
 
+Question  -------------------------->
+
 L E E T C O D E 
 622. Design Circular Queue
 Medium
@@ -27,8 +29,7 @@ boolean isFull() Checks whether the circular queue is full or not.
 You must solve the problem without using the built-in queue data structure in your programming language. 
 
 
-SOLUTION ----->
-
+SOLUTION -------------------------->
 /**
  * @param {number} k
  */
